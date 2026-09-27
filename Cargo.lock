@@ -7,7 +7,7 @@ name = "binary-search"
 version = "0.1.0"
 
 [[package]]
-name = "common"
+name = "cordic"
 version = "0.1.0"
 
 [[package]]
