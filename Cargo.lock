@@ -11,5 +11,9 @@ name = "cordic"
 version = "0.1.0"
 
 [[package]]
+name = "fisr"
+version = "0.1.0"
+
+[[package]]
 name = "interpolation-search"
 version = "0.1.0"
